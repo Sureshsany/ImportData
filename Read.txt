@@ -1,0 +1,12 @@
+Setting up MoveData
+1. It works on the machine where Time Tracker is working
+2. Unzip the file MoveData
+3. Open setting.ini
+4. Change the path of source datapath
+5. Change the path of target datapath
+6. Save the file setting.ini and close
+7. Run MoveData v1.0
+8. Resize if required and click Move Data
+9. Any error, let me know. 
+
+Note: Once data have moved from source path, data will be DELETED from source.
